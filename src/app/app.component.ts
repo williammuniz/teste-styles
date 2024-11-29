@@ -22,7 +22,7 @@ export class AppComponent {
     if (this.textColor === 'white') {
       this.textColor = 'orange';
       this.buttonText = 'Branco';
-    }else{
+    } else {
       this.textColor = 'white';
       this.buttonText = 'Laranja';
     }
